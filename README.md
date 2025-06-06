@@ -54,3 +54,43 @@ Topics include classes, inheritance, polymorphism, file handling, and more. Thes
 04. Create a class `Number` with two integers and a function to return the larger one.  
 05. Create a class `Number` with three integers and a function to return the largest.  
 06. Create a class `Swapper` with two integers and a function to swap them.  
+
+---
+
+## 📄 Lab Sheet 5 – Operator Overloading & Inline Functions
+01. Subtract two complex numbers using operator overloading.  
+02. Add two `Time` objects using operator overloading.  
+03. Subtract two `Time` objects using operator overloading.  
+04. Count number of words in a line.  
+05. Find cube of an integer using inline function.  
+06. Convert Celsius to Fahrenheit.  
+
+---
+
+## 📄 Lab Sheet 6 – Inheritance & Conversion
+01. Derive `Wall_clock` from `Clock` class and create objects.  
+02. Find square of an integer using inline function.  
+03. Convert feet to meter.  
+04. Calculate area of rectangle using inline function.  
+
+---
+
+## 📄 Lab Sheet 7 – Inheritance & Geometry
+01. Derive `Triangle` and `Rectangle` from `Shape` and display area.  
+02. Find square root of an integer using inline function.  
+03. Convert inch to centimeter.  
+04. Find volume of rectangular box using inline function.  
+
+---
+
+## 📄 Lab Sheet 8 – File Handling
+01. Read and write employee records to file `emp.doc`.  
+02. Write 5 item records to `item.dat` file.  
+03. Read 1st, 3rd, and 5th records from `item.dat`.  
+04. Count number of objects in a file.  
+05. Copy contents of one file to another.  
+06. Write 1000 numbers to `even.dat` or `odd.dat` based on parity.
+
+---
+
+🎯 Happy Coding!
